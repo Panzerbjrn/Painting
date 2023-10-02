@@ -20,6 +20,12 @@ Basic Layer:
 15) Gryph Hound Orange - Eagle Eyes
 16) Black Templar    - Eagle Pupils
 17) Blood Angels Red- Cloth around arm & Pommel
+18) Basilicanum Grey- Tactical rock
+19) Astrogranite Debris - Base
+20) Add Gravel...
+21) Basilicanum Grey - dirty down the base + stuff.
+22) Tyrant Skull - dry brush base
+23) Corvus Black    - Rim of base
 
 Highlights
 01) Russ Grey        - Highlight Black
@@ -28,11 +34,17 @@ Highlights
 04) Fenrisian Grey   - Spot hhighlights on Black
 05) Alaitoc Blue     - Highlight cloak
 06) Corax White      - Highlight tabard
-) Corax White      - Highlight beak
-) Karak Stone  - Highlight Feathers
-) Screaming Skull  -   Highlight hair, Highlight beak connecting part, colour in eye, spot highlight feather
-) Fyreslayer Flesh - Shade Gold bits
-) Flayed One Flesh - Highlight Face
+07) Corax White      - Highlight beak
+08) Karak Stone  - Highlight Feathers
+09) Screaming Skull  -   Highlight hair, Highlight beak connecting part, colour in eye, spot highlight feather
+10) Fyreslayer Flesh - Shade Gold bits
+11) Flayed One Flesh - Highlight Face
+12) Screaming Skull  - Highlight Face
+13) Liberator Gold   - Highlight Gold areas
+14) Wild Rider Red   - Hughlight Red
+15) Stormhost Silver - Chest Gem
+16) Talassar Blue    - Chest Gem
+17) Black Templar    - Chest Gem top
 
 Armour & Sword
 1) Iron Hands Steel on silver armour & sword
