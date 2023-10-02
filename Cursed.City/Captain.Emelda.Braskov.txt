@@ -16,7 +16,7 @@ Basic Layer:
 11) Gryph Hound Orange - Eagle Eyes
 12) Black Templar    - Eagle Pupils
 13) Blood Angels Red- Cloth around arm & Pommel
-14) Retributor Armour -  Gold bits
+14) Retributor Armour -  Gold bits (Thinned down a bit)
 15) Gryph Hound Orange - Eagle Eyes
 16) Black Templar    - Eagle Pupils
 17) Blood Angels Red- Cloth around arm & Pommel
@@ -31,6 +31,8 @@ Highlights
 ) Corax White      - Highlight beak
 ) Karak Stone  - Highlight Feathers
 ) Screaming Skull  -   Highlight hair, Highlight beak connecting part, colour in eye, spot highlight feather
+) Fyreslayer Flesh - Shade Gold bits
+) Flayed One Flesh - Highlight Face
 
 Armour & Sword
 1) Iron Hands Steel on silver armour & sword
