@@ -5,13 +5,39 @@ Prime: Grey Seer Primer
 ) Akhelian Green    -   Shirt (Waistcoat) / Shoulder Armour Panels
 ) Leviadon Blue     -   Shirt (Waistcoat) / Shoulder Armour Panels top only
 ) Mix 1:1 - Black Templar:Cygor Brown -   Outside coat
-) Cygor Brown       -   Gloves
+) Cygor Brown       -   Gloves / Eye Path other leather areas
 ) Mix 5:1 - Contrast Medium:Wyldwood  -  Trousers $ Shirt Lapels
 ) Wyldwood  -   Gun Stock
+) Volupus Pink   -   Axe handle
 ) Iron Hands Steel  -   Metal/Steel/Armour bits
 ) Screaming Bell    -   Coppery Reddy Goldy details. Flasks & Steampunky weapons bits.
 ) Castellax Bronze  -   Beard & Backpack side bits
-
+) Retributor Armour -   Backpack
+) Black Templar     -   Various Piping on the Front
+) Skeleton Horde    -   Gun sling & Contract
+) Guilliman Flesh   -   Skin
+) Evil Sunz Scarlet -   Highlight Red bits
+) Mix 4:1 - Contrast Medium:Black Templar   -   Shade silvery metallics
+) Fyreslayer Flesh  -   Shade gold
+) Gryph Hound Orange-   Shade Screaming Bell areas
+) SkullCrusher Brass-   Layer on top of brass bits
+) Hashut Copper -   Highlight Brass
+) Canoptek Alloy    -   Highlight SkullCrusher Brass
+) Liberator Gold    -   Highlight gold areas
+) Iron Hands Steel (Thinned Down)  -   Higlight Silvery Metallics
+) Stormhost Silver  -   Higlight Silvery Metallics
+) Skrag Brown   -  Highlight leather
+) Deathclaw Brown   -   Spot highlights on brown
+) Dark Reaper   -   Highlight coat
+) Thunderhawk Blue - Highlight on top of Dark Reaper
+) Dawnstone -    Highlight Black pipes
+) Screaming Skull    -   Highlight light bits (Contract etc)
+) Sotek Green   -   Highlight Armour Panels
+) Lothern Blue  -   Spot Hihlight Sotek Green
+) Flayed One Flesh   -   Highlight Face
+) Pallid Wych Flesh -   Highlight Flayed One Flesh
+) Screaming Skull   -   Eye ball
+) Black Templar -   Pupil
 
 
 
