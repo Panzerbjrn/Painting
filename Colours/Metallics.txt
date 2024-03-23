@@ -10,6 +10,10 @@ Swords:
 Brass:
 1) Runelord Brass
 2) Darkoath Flesh
+2) Fyreslayer flesh
+3) Liberator Gold
+4) Canoptek Alloy
+
 
 Gold:
 1) Retributor Armour
