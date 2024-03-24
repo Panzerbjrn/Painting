@@ -10,5 +10,6 @@ Vallejo Model Color Dark Grey - Incubi Darkness
 Vallejo Model Color Olive Green - Straken Green
 Vallejo Model Color Verde Oliva - Straken Green
 Vallejo Game Color Cold Grey - Eshin Grey
+Speedpaint Highlord Blue - Asurmen Blue
 
 
