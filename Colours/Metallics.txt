@@ -6,6 +6,11 @@ Swords:
 3) Leadbelcher - re-layer flat sections, avoid recesses/text
 4) Iron Breaker - Edge Highlight
 
+Metal Bits:
+1) Gun Metal
+2) Nuln Oil
+3) Gun Metal highlights
+
 
 Brass:
 1) Runelord Brass
@@ -18,3 +23,7 @@ Brass:
 Gold:
 1) Retributor Armour
 2) Fyreslayer Flesh
+
+Gold:
+1) Gehenna's Gold
+2) Guilliman Flesh
