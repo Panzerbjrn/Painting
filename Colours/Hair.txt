@@ -18,16 +18,18 @@ Blonde Beard
 2) Bone White Highlights
 3) Seraphim Sepia
 4) Bone White Highlights
-
+5) Pallid Wych Flesh Highlights
+6) Seraphim Sepia
 
 Grey Beard
 1) Fenrisian Grey
 2) Fenrisian Grey:Ulthuan Grey Highlights
 3) Ulthuan Grey Highlights
+4) Ulthuan Grey:White
 
 
 Black Beard:
 1) Abaddon Black
 2) Abaddon Black:Stonewall Grey Highlights
-
+3) Stonewall Grey Highlights
 
