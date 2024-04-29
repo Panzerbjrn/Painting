@@ -1,3 +1,6 @@
+https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
+https://redgrimm.github.io/paint-conversion/
+
 Vallejo Game Color Earth - Steel Legion Drab
 Vallejo Game Color Khaki - Baneblade Brown
 Vallejo Game Color Beasty Brown - Skavenblight Dinge
@@ -12,4 +15,11 @@ Vallejo Model Color Verde Oliva - Straken Green
 Vallejo Game Color Cold Grey - Eshin Grey
 Speedpaint Highlord Blue - Asurmen Blue
 
+
+Caledor Sky	- Vallejo Model Color Magic Blue (021)
+Caledor Sky	- Vallejo Model Color Flat Blue
+Caledor Sky - Vallejo Game Color Dark Blue (930)
+Caledor Sky - Army Painter Crystal Blue
+Caledor Sky - Army Painter Viking Blue
+Caledor Sky - TwoThin Coats Witching Hour Blue
 
