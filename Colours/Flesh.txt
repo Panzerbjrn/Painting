@@ -34,7 +34,7 @@ He-Man Style 2
 --- Flayed One Flesh Edge Highlights
 
 Slayers:
-Skin - 2:1 - Fyreslayer Flesh/Contrast Medium 
+Skin - 2:1 - Fyreslayer Flesh/Contrast Medium
 Skin, avoiding recesses: Cadian Flesh tone
 Skin Highlight 1 Broad: 1:1 Cadian/Kislev Flesh
 Skin Highlight 2: Kislev flesh
@@ -48,7 +48,7 @@ https://youtu.be/oWlGphHMMBo
 Priming Wraithbone
 
 Tabletop ready:
-Skin - 2:1 - Fyreslayer Flesh/Contrast Medium 
+Skin - 2:1 - Fyreslayer Flesh/Contrast Medium
 Hair - 3:1 - Gryph-Hound Orange:Fyreslayer Flesh
 Trousers - Space Wolves Grey
 Boots/Belt - Wyldwood
@@ -70,4 +70,11 @@ Silver Metals Edge highlight - Stormhost Silver
 
 Tattoos:
 Space Wolves Grey
+
+Dwarf Slayers - Darker Skin Tone
+
+Vallejo Mahogany Brown - Dry Brush whole model
+Flesh - Vallejo Flesh Base
+Top off the flesh - Army Painter Barbarian Flesh
+Vallejo Highlight Flest -  Highlight the flest
 
