@@ -11,7 +11,7 @@ Vallejo Game Color Tan - Bugmans Glow
 Vallejo Model Color Light Brown - Cadian Fleshtone
 Vallejo Model Color Dark Grey - Incubi Darkness
 Vallejo Model Color Olive Green - Straken Green
-Vallejo Model Color Verde Oliva - Straken Green
+Vallejo Model Color Mahogany Brown - Doombull Brown
 Vallejo Game Color Cold Grey - Eshin Grey
 Speedpaint Highlord Blue - Asurmen Blue
 
@@ -22,4 +22,11 @@ Caledor Sky - Vallejo Game Color Dark Blue (930)
 Caledor Sky - Army Painter Crystal Blue
 Caledor Sky - Army Painter Viking Blue
 Caledor Sky - TwoThin Coats Witching Hour Blue
+
+
+Army Painter Barbarian Flesh - Fire Dragon Bright   - https://redgrimm.github.io/paint-conversion/index.html
+Army Painter Barbarian Flesh - Bestigor Flesh       - https://redgrimm.github.io/paint-conversion/army-painter.html
+Army Painter Barbarian Flesh - Lugganath Orange     - https://redgrimm.github.io/paint-conversion/vallejo-game.html
+Army Painter Barbarian Flesh - Kislev Flesh         - https://redgrimm.github.io/paint-conversion/vallejo-model.html
+Army Painter Barbarian Flesh - Ratskin Flesh        - https://www.dakkadakka.com/wiki/en/paint_range_compatibility_chart
 
