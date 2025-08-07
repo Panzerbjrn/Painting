@@ -7,6 +7,5 @@ Priming: Grey Seer
 2) Storm Host Silver - Dry Brush
 3) Colour to Metallisize
     Example: Luxion Purple, Iyanden Yellow
-4) Shade paing over the colours to shade (Purple/Gold/Flesh/etc)
-m
+4) Shade painting over the colours to shade (Purple/Gold/Flesh/etc)
 
