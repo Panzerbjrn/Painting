@@ -1,18 +1,21 @@
 https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
 https://redgrimm.github.io/paint-conversion/
 
+Vallejo Game Color Beasty Brown - Skavenblight Dinge
+Vallejo Game Color Bloody Red - Evil Sunz Scarlet
+Vallejo Game Color Charred Brown - Dryad Bark
+Vallejo Game Color Cold Grey - Eshin Grey
+Vallejo Game Color Cold White - White Scar (old) / Ceramite White (new)
+Vallejo Game Color Dark Fleshtone - Rhinox Hide
 Vallejo Game Color Earth - Steel Legion Drab
 Vallejo Game Color Khaki - Baneblade Brown
-Vallejo Game Color Beasty Brown - Skavenblight Dinge
-Vallejo Game Color Wolf Grey - Fenrisian Grey
-Vallejo Game Color Charred Brown - Dryad Bark
-Vallejo Game Color Dark Fleshtone - Rhinox Hide
 Vallejo Game Color Tan - Bugmans Glow
-Vallejo Model Color Light Brown - Cadian Fleshtone
+Vallejo Game Color Ultramarine Blue - Macragge Blue
+Vallejo Game Color Wolf Grey - Fenrisian Grey
 Vallejo Model Color Dark Grey - Incubi Darkness
-Vallejo Model Color Olive Green - Straken Green
+Vallejo Model Color Light Brown - Cadian Fleshtone
 Vallejo Model Color Mahogany Brown - Doombull Brown
-Vallejo Game Color Cold Grey - Eshin Grey
+Vallejo Model Color Olive Green - Straken Green
 Speedpaint Highlord Blue - Asurmen Blue
 
 
@@ -30,3 +33,9 @@ Army Painter Barbarian Flesh - Lugganath Orange     - https://redgrimm.github.io
 Army Painter Barbarian Flesh - Kislev Flesh         - https://redgrimm.github.io/paint-conversion/vallejo-model.html
 Army Painter Barbarian Flesh - Ratskin Flesh        - https://www.dakkadakka.com/wiki/en/paint_range_compatibility_chart
 
+
+Warcolours Classic Nostalgia 88 Blue Ink - Contrast Asurmen Blue; thinned with contrast medium
+Warcolours Red Glaze - Baal Red; Thinned with medium
+Warcolours Red Glaze - Blood Angels Red; Thinned with medium
+
+TTCombat Supernova Chrome - Runefang Steel
