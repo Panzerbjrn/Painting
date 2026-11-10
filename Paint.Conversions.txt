@@ -39,3 +39,6 @@ Warcolours Red Glaze - Baal Red; Thinned with medium
 Warcolours Red Glaze - Blood Angels Red; Thinned with medium
 
 TTCombat Supernova Chrome - Runefang Steel
+
+Burnt Red PA Pro Acrylic - Khorne Red
+Burnt Red PA Pro Acrylic - Mephiston Red

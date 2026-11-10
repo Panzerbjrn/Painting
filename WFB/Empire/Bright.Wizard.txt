@@ -1,14 +1,16 @@
 Anvile of Doom:
 https://youtu.be/CLj5xc4JU3U?si=ohHOF61N5hS75lz_&t=269
 
-Cadian Flest
-Guilliman Flesh
-Cadian Flesh/Kislev Flesh 1:1
-Kislev Flesh
-Flayed One Flesh
+Flesh:
+01) Coats			- Cadian Flesh
+02) Shading			- Gulliman Flesh
+03) Highlight 		- Cadian Flesh/Kislev Flesh 1:1
+04) Highlight		- Kislev Flesh
+05) Spot highlights - Flayed One Flesh
 
-Burnt Red (PA)
-Evil Sunz Scarlett
+Cloth/Top of staff:
+01) Burnt Red (PA) - Khorne or Mephiston Red
+02) Evil Sunz Scarlett
 Orange Flare
 Orange Brown (AK)
 Seraphim Sepia
@@ -21,3 +23,18 @@ Coal Black PA/Dark Reaper 1:1
 Dark Reaper
 Thunderhawk Blue
 Fenrisian Grey
+Dark Umber PA
+Dark Umber PA/Mournfang Brown 1:1
+Mournfang Brown
+Mournfang Brown/Skragg Brown 1:1
+Skragg Brown
+Skragg Brown/Zamesi Desert
+Burnt Red PA/Trollslayer Orange 1:1
+Flesh Tearers Red
+Burnt Red PA/Trollslayer Orange 1:1
+Trollslayer Orange
+Trollslayer Orange/Yriel Yellow 1:1
+Yriel Yellow
+Jade PA
+Jade PA/Bold Titanium White PA
+Bold Titanium White PA
