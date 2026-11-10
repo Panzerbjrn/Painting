@@ -1,5 +1,6 @@
 https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
 https://redgrimm.github.io/paint-conversion/
+https://herrickgames.com/pages/paint-comparison-chart-between-hobby-ranges
 
 Vallejo Game Color Beasty Brown - Skavenblight Dinge
 Vallejo Game Color Bloody Red - Evil Sunz Scarlet
@@ -40,5 +41,14 @@ Warcolours Red Glaze - Blood Angels Red; Thinned with medium
 
 TTCombat Supernova Chrome - Runefang Steel
 
-Burnt Red PA Pro Acrylic - Khorne Red
-Burnt Red PA Pro Acrylic - Mephiston Red
+Burnt Red	PA Pro Acrylic - Khorne Red
+Burnt Red	PA Pro Acrylic - Mephiston Red
+Coal Black	PA Pro Acrylic - Abaddon Black
+Coal Black	PA Pro Acrylic - Corvus Black
+Dark Umber	PA Pro Acrylic - Steel Legion Drab
+Jade 		PA Pro Acrylic - Kabalite Green
+Bold Titanium White PA Pro Acrylic - White Scar
+Bold Titanium White PA Pro Acrylic - Ceramite White
+
+Orange Brown AK	-	Skragg Brown
+
